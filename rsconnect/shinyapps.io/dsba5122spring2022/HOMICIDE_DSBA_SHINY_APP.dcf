@@ -1,0 +1,13 @@
+name: HOMICIDE_DSBA_SHINY_APP
+title: HOMICIDE_DSBA_SHINY_APP
+username:
+account: dsba5122spring2022
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6218509
+bundleId: 5862262
+url: https://dsba5122spring2022.shinyapps.io/HOMICIDE_DSBA_SHINY_APP/
+when: 1651528585.99174
+lastSyncTime: 1651528585.99174
+asMultiple: FALSE
+asStatic: FALSE
